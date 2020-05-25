@@ -1,0 +1,22 @@
+{
+  "name": "ServiceNSWLesson11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pointer": "node .\\src\\VariablePointers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeParkerTAFE/ServiceNSWLesson11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeParkerTAFE/ServiceNSWLesson11/issues"
+  },
+  "homepage": "https://github.com/LukeParkerTAFE/ServiceNSWLesson11#readme",
+  "dependencies": {
+  }
+}
