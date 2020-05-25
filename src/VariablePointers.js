@@ -77,3 +77,20 @@ console.log(myObjCopy)
 
 
 // const { readFileSync, writeFileSync } = require("fs"); // { readFileSync: fn, writeFileSync: fn, dirExists: fn .. more }
+
+
+let myPeople = [
+    {
+        firstName: "Luke",
+        lastName: "Parker",
+        age: 23
+    }, {
+        firstName: "Rachel",
+        lastName: "Nox",
+        age: 28
+    }, {
+        firstName: "Douglas",
+        lastName: "Adams",
+        age: 42
+    }
+];
